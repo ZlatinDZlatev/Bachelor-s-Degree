@@ -1,0 +1,9 @@
+a:link{
+    color:"#6198d6";
+}
+a:visited{
+    color:blueviolet;
+}
+a:hover{
+    color: cornflowerblue;
+}
